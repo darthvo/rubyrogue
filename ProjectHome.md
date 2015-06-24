@@ -1,0 +1,1 @@
+**Ruby Rogue** is a learning project aimed at developing a game, specifically roguelike, in Ruby. It uses Gosu library and a tileset instead of actual text.
